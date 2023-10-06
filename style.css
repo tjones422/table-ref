@@ -1,0 +1,27 @@
+h1{
+  text-align: center;
+  color:darkslategrey;
+  background-color: lightblue;
+  font-family: monospace;
+}
+h2{
+  text-align: center;
+  color: darkcyan;
+  background-color: lightcyan;
+  font-family: monospace;
+}
+table{
+  border: 2px solid darkorchid;
+  width: 650px;
+  margin: 0, auto;
+}
+thead{
+  background-color: plum;
+}
+td{
+  border-top: 1px solid darkorchid;
+}
+.code{
+  font-family:monospace;
+  color:darksalmon;
+}
